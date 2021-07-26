@@ -1,0 +1,40 @@
+.line{
+  border-left: 4px solid green;
+  height: 520px;
+  left: 330px;
+  position: absolute;
+  top: 100px;
+  margin: 10px;
+}
+
+h2  {
+  font-size: 135%;
+  position: absolute;
+  top: 115px;
+  left: 50px;
+  font-family: Georgia, serif;
+}
+
+ul  {
+  font-size: 120%;
+  position: absolute;
+  top: 175px;
+  left: 65px;
+  font-family: Verdana, sans-serif;
+}
+
+.one  {
+  font-size: 400%;
+  position: absolute;
+  left: 310px;
+  bottom: 575px;
+  font-family: Georgia, serif;
+}
+
+.member  {
+  font-size: 150%;
+  position: absolute;
+  top: 250px;
+  left: 365px;
+  font-family: Verdana, sans-serif;
+}
