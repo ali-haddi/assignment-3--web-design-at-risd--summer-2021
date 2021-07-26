@@ -38,3 +38,9 @@ ul  {
   left: 365px;
   font-family: Verdana, sans-serif;
 }
+
+img  {
+  position: absolute;
+  top: 450px;
+  left: 900px;
+}
